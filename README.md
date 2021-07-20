@@ -3,7 +3,7 @@
 A simple flutter project that show users data in list from server and local database.
 
 ### Components
-* Provider
+* Provider Architecture
 * Store local data using Moor
 * Network API call using Dio
 
